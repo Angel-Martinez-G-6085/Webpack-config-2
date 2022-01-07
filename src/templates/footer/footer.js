@@ -1,4 +1,4 @@
-import './footer.css';
+import './footer.scss';
 import FOOTER from './footer.html';
 
 export const loadFooter = () => {

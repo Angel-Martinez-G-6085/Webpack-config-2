@@ -1,5 +1,5 @@
 import '../node_modules/normalize.css/normalize.css';
-import '../public/styles.css';
+import '../public/styles.scss';
 import Router from './router/router';
 import PATHS from './router/routes';
 

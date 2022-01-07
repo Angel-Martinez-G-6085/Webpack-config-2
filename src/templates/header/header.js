@@ -1,4 +1,4 @@
-import './header.css';
+import './header.scss';
 import HEADER from './header.html';
 
 export const loadHeader = () => {

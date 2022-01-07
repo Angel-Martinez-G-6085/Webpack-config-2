@@ -1,4 +1,4 @@
-import './inicio.css';
+import './inicio.scss';
 import INICIO from './inicio.html';
 
 const loadInicio = () => {
